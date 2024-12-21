@@ -1,0 +1,7 @@
+#We set permissions
+chmod +x setup.sh
+chmod +x RDPChecker7
+
+#We run the dependency installer and RDPChecker7
+./setup.sh
+./RDPChecker7
